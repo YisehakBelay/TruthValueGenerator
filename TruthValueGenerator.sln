@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TruthValueGenerator", "TruthValueGenerator.pyproj", "{2C262434-125C-4DAE-955F-B7BEE7CBB78A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C262434-125C-4DAE-955F-B7BEE7CBB78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C262434-125C-4DAE-955F-B7BEE7CBB78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE25F230-2C63-412D-8955-4756A647480D}
+	EndGlobalSection
+EndGlobal
