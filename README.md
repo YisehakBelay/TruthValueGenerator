@@ -1,1 +1,4 @@
 # TruthValueGenerator
+A Python program to perform logical operations and generate truth tables. Overview This Python program allows users to perform logical operations (AND, OR, NOT, XOR, NAND) or generate truth tables for up to four boolean variables. It's designed to help understand basic logic operations through direct input or automated truth table generation.
+
+How to Run Clone this repository using: git clone https://github.com/YisehakBelay/TruthTableGenerator.git Navigate to the directory containing the program. To run the script with Python: python DISC_PROJ.py Input values mode: Input specific truth values for up to four variables and see the results of various logical operations. Generate truth table mode: Choose the number of variables and generate a truth table displaying results for all logical operations. License This project is open-source
